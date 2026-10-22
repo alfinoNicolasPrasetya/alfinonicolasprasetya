@@ -1,4 +1,4 @@
-![](img/thubnail-alfino.png)
+![Thubnail-Alfino](img/thubnail-alfino.png)
 
 # Junior Backend Developer | Informatics Engineering Graduate
 
@@ -58,7 +58,7 @@ Regency using the **Fuzzy Sugeno method**.
 
 **Technologies:** PHP, MySQL, Bootstrap, JavaScript, Fuzzy Sugeno.
 
-🔗 [View Project Repository](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+🔗 [View Project Repository](https://github.com/alfinoNicolasPrasetya/sistemPenunjangKeputusan)
 
 ## Currently Learning
 
@@ -71,16 +71,16 @@ Regency using the **Fuzzy Sugeno method**.
 ## GitHub Statistics
 
 ![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=transparent)
+Stats](https://github-readme-stats.vercel.app/api?username=alfinonicolasprasetya&show_icons=true&hide_border=true&theme=transparent)
 
 ![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&theme=transparent)
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfinonicolasprasetya&layout=compact&hide_border=true&theme=transparent)
 
 ## Connect With Me
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- LinkedIn: [My LinkedIn Profile](YOUR-LINKEDIN-URL)
-- Email: YOUR-EMAIL@example.com
+- GitHub: [@alfinoNicolasPrasetya](https://github.com/alfinoNicolasPrasetya)
+- LinkedIn: [Alfino Nicolas Prasetya](https://linkedin.com/in/alfinonicolasprasetya)
+- Email: [nicolaprasetya18@gmail.com](mailto:nicolasprasetya18@gmail.com)
 
 ---
 

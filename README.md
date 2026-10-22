@@ -1,4 +1,4 @@
-![Thubnail-Alfino](img/thubnail-alfino.png)
+![Thubnail-Alfino](img/thubnail-Alfino.png)
 
 # Junior Backend Developer | Informatics Engineering Graduate
 
